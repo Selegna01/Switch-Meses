@@ -60,7 +60,7 @@ public class meses{
                 System.out.println("El mes correspondiente al número " + numeroMes + " es: " + nombreMes);
                 break;
                 default:;
-                System.out.println("El mes correspondiente al número " + numeroMes + " es: " + nombreMes);
+                System.out.println("EROR.Ingresa un numero valido.");
         }
     }
 }
