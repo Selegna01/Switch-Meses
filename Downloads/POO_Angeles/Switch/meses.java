@@ -12,51 +12,51 @@ public class meses{
 
         switch(numeroMes){
             case 1:
-                nombreMes = "Enero";
+                nombreMes = "January";
                 System.out.println("El mes correspondiente al número " + numeroMes + " es: " + nombreMes);
                 break;
             case 2:
-                nombreMes = "Febrero";
+                nombreMes = "Febraury";
                 System.out.println("El mes correspondiente al número " + numeroMes + " es: " + nombreMes);
                 break;
             case 3:
-                nombreMes = "Marzo";
+                nombreMes = "March";
                 System.out.println("El mes correspondiente al número " + numeroMes + " es: " + nombreMes);
                 break;
             case 4:
-                nombreMes = "Abril";
+                nombreMes = "April";
                 System.out.println("El mes correspondiente al número " + numeroMes + " es: " + nombreMes);
                 break;
             case 5:
-                nombreMes = "Mayo";
+                nombreMes = "May";
                 System.out.println("El mes correspondiente al número " + numeroMes + " es: " + nombreMes);
                 break;
             case 6:
-                nombreMes = "Junio";
+                nombreMes = "June";
                 System.out.println("El mes correspondiente al número " + numeroMes + " es: " + nombreMes);
                 break;
             case 7:
-                nombreMes = "Julio";
+                nombreMes = "Jule";
                 System.out.println("El mes correspondiente al número " + numeroMes + " es: " + nombreMes);
                 break;
             case 8:
-                nombreMes = "Agosto";
+                nombreMes = "August";
                 System.out.println("El mes correspondiente al número " + numeroMes + " es: " + nombreMes);
                 break;
             case 9:
-                nombreMes = "Septiembre";
+                nombreMes = "September";
                 System.out.println("El mes correspondiente al número " + numeroMes + " es: " + nombreMes);
                 break;
             case 10:
-                nombreMes = "Enero";
+                nombreMes = "October";
                 System.out.println("El mes correspondiente al número " + numeroMes + " es: " + nombreMes);
                 break;
             case 11:
-                nombreMes = "Octubre";
+                nombreMes = "November";
                 System.out.println("El mes correspondiente al número " + numeroMes + " es: " + nombreMes);
                 break;
             case 12:
-                nombreMes = "Noviembre";
+                nombreMes = "December";
                 System.out.println("El mes correspondiente al número " + numeroMes + " es: " + nombreMes);
                 break;
                 default:;
