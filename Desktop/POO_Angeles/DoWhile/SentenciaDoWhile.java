@@ -17,6 +17,5 @@ public class SentenciaDoWhile{
      }
 }
 
-//JeigasCoins=55.95(1peso=595)
-//1)J a Pesos
-//2)De peso a Jeringa
+//Codigo finalizado.
+//Codigo compilado con exito.
